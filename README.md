@@ -7,7 +7,7 @@
 Pull latest Docker image from GitHub Container Registry.
 
 ```bash
-$ docker pull ghcr.io/shinchu/42tokyo-tools:latest
+$ docker pull ghcr.io/shinchu/42tokyo-tools:main
 ```
 
 Change directory to project repository, and start a container.
