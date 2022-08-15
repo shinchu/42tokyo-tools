@@ -7,6 +7,7 @@ RUN apk add --no-cache bash \
 		gdb \
 		make \
 		valgrind \
-		py3-pip
+		py3-pip \
+		tmux
 
 RUN pip install --no-cache-dir norminette
