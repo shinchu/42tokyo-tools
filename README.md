@@ -1,6 +1,6 @@
 # 42tokyo-tools
 
-`bash`, `gcc`, `gdb`, `make`, `valgrind`, and `norminette` packaged into a Docker image, originated by [hanshazairi](https://github.com/hanshazairi/42ools).
+`bash`, `tmux`, `gcc`, `gdb`, `make`, `valgrind`, and `norminette` packaged into a Docker image, originated by [hanshazairi](https://github.com/hanshazairi/42ools).
 
 ## Usage
 
